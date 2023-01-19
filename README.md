@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: agustinmeriles@hotmail.com
 
-<div align="center">
+<div align="left">
     <h3>🛠Languages and Tools:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
