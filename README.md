@@ -1,14 +1,20 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm AgustinMeriles</h1>
-    <h3 align="center">I am 20 years old, and I am studying software engineering at Holberton School Uruguay.</h3>
-
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
+    <div>
+        <a href="https://www.linkedin.com/in/agust%C3%ADn-meriles-fern%C3%A1ndez-28bb65173/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:agustinmeriles@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    
+        </a>
+</div>
+    <h3 align="center">My name is Agustín and I am 20 years old. In my profile you will find my different projects as a developer. These projects can be useful to you because my repositories have a lot of information and interesting content. I hope you like it, thank you very much for visiting.</h3>
 </div>
 
 ### 🙋‍♂️ About Me:
 
 - 🔭 I’m currently estuding at Holberton School.
-- 🌱 I’m currently learning Python.
+- 🌱 Actually I'm learning Python3.
 - 📫 How to reach me: agustinmeriles@hotmail.com
 
 <div align="left">
