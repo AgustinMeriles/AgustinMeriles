@@ -4,13 +4,13 @@
     <h3 align="center">I am 20 years old, and I am studying software engineering at Holberton School Uruguay.</h3>
 
 </div>
-<div align="center">
-    ### 🙋‍♂️ About Me:
 
-    - 🔭 I’m currently estuding at Holberton School.
-    - 🌱 I’m currently learning Python.
-    - 📫 How to reach me: agustinmeriles@hotmail.com
-</div>
+### 🙋‍♂️ About Me:
+
+- 🔭 I’m currently estuding at Holberton School.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: agustinmeriles@hotmail.com
+
 <div align="center">
     <h3>🛠Languages and Tools:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
