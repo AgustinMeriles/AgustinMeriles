@@ -6,7 +6,7 @@
         </a>
         <a href="mailto:agustinmeriles@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-    <h3 align="center">My name is Agustín and I am 20 years old. In my profile you will find my different projects as a developer. These projects can be useful to you because my repositories have a lot of information and interesting content. I hope you like it, thank you very much for visiting.</h3>
+    <h3 align="center">My name is Agustín and I am 20 years old. In my profile you will find my different projects as a developer. These projects can be useful for you because my repositories have a lot of information and interesting content. I hope you like it, thank you very much for visiting.</h3>
 </div>
 
 ### 🙋‍♂️ About Me:
