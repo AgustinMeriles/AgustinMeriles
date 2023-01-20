@@ -6,14 +6,15 @@
         </a>
         <a href="mailto:agustinmeriles@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-    <h3 align="center">My name is Agustín and I am 20 years old. In my profile you will find my different projects as a developer. These projects can be useful for you because my repositories have a lot of information and interesting content. I hope you like it, thank you very much for visiting.</h3>
+    <h3 align="center">My name is Agustín and I am 20 years old. In my profile you will find my different projects as a developer. These projects have a lot of information that may be useful for you. Thanks for visiting and I hope it healps you.</h3>
 </div>
 
 ### 🙋‍♂️ About Me:
 
 - 🔭 I’m currently estuding at Holberton School.
 - 🌱 Actually I'm learning Python3.
-- 📫 How to reach me: agustinmeriles@hotmail.com
+- 💪 I like to learn and superate new chalenges.
+- 👥 I am good at teamwork.
 
 <div align="left">
     <h3>🛠Languages and Tools:</h3>
