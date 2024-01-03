@@ -11,10 +11,10 @@
 
 ### 🙋‍♂️ About Me:
 
-- 🔭 I’m currently estuding at Holberton School.
-- 🌱 Actually I'm learning Python3.
+- 🧑‍💻 I'm currently working at bantotal, as a development analyst
 - 💪 I like to learn and superate new chalenges.
-- 👥 I am good at teamwork.
+- 👥 I'm good at teamwork.
+- 🍃 In my free time I like to go to the gym, read, play videogames and spend time with friends.
 
 <div align="left">
     <h3>🛠Languages and Tools:</h3>
@@ -22,4 +22,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
